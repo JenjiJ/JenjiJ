@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JenjiJ
 - 👀 I’m interested in **game programming, art, and development**
-- 🌱 I’m currently learning **Unity, C#, Game Development**
+- 🌱 I’m currently learning **Godot, Game Development, 3D Modeling**
 - 💞️ I’m looking to collaborate on **game projects**
 - 📫 How to reach me: Working on it!
 
